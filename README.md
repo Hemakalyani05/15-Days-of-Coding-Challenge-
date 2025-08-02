@@ -13,6 +13,7 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Remove Duplicates from Sorted Array
 
 ##  Inspiration
-Inspired by [@digg_deeperr] — who encouraged this 15-day challenge and promised a surprise for those who complete it! 
+Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
+
 
 
