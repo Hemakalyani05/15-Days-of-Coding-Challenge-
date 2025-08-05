@@ -10,6 +10,18 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Two Sum
   - Maximum Subarray
   - Remove Duplicates from Sorted Array
+- Day 2:
+  - Best time to buy and sell stock
+  - Product of array except self
+  - Valid Palindrome
+- Day 3:
+  - Valid Anagram
+  - Find the index of first occurence of string
+  - Group Anagrams
+- Day 4:
+  - Subarray Sum Equals K
+  - Longest Palindromic Substring
+  - Valid Parentheses
 
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
