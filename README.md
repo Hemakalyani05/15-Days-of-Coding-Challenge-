@@ -22,7 +22,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Subarray Sum Equals K
   - Longest Palindromic Substring
   - Valid Parentheses
-
+- Day 5:
+  - Binary Search
+  - Trapping rain water
+  - Linkedlist Cycle
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
