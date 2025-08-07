@@ -26,6 +26,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Binary Search
   - Trapping rain water
   - Linkedlist Cycle
+- Day 6:
+  - Search Insert Position
+  - Longest Substring Without Repeating Characters
+  - Two Sum II- Input array is Sorted
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
