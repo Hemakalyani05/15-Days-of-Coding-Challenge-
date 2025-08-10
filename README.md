@@ -34,6 +34,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - 132 Pattern
   - Reverse Linkedlist II
   - Sliding Window Maximum
+- Day 8:
+  - Simplify Path
+  - Basic Calculator II
+  - Decode string
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
