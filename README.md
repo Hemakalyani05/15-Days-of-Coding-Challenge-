@@ -38,6 +38,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Simplify Path
   - Basic Calculator II
   - Decode string
+- Day 9:
+  - Maximum depth of Binary tree
+  - Container with most water
+  - Subarray Sum equals K
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
