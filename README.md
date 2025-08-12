@@ -42,6 +42,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Maximum depth of Binary tree
   - Container with most water
   - Subarray Sum equals K
+- Day 10:
+  - Fibonacci Number
+  - Climbing Stairs
+  - Minimum depth of binary tree
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
