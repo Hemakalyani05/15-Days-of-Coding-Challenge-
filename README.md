@@ -46,6 +46,14 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Fibonacci Number
   - Climbing Stairs
   - Minimum depth of binary tree
+- Day 11:
+  - Lowest Common ANcestor of binary tree
+  - Coin change
+  - Number of islands
+- Day 12:
+  - Remove Nth node from end of list
+  - Palindrome Linked list
+  - Intersection of two linked lists
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
