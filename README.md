@@ -1,3 +1,4 @@
+
 # 15 Days DSA Coding Challenge 
 
 Hi! I’m Hema Kalyani Atmakuri, and this repository contains my daily progress in a 15-day coding challenge. I’m solving 3 problems per day from LeetCode to improve my Data Structures and Algorithms (DSA) skills.
@@ -54,6 +55,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Remove Nth node from end of list
   - Palindrome Linked list
   - Intersection of two linked lists
+- Day 13:
+  -  Remove adjacent duplicates from string ii
+  -  Asteroid Collision
+  -  Makes the string great 
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
