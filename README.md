@@ -58,7 +58,11 @@ Goal: Improve problem-solving and crack top tech internships/jobs
 - Day 13:
   -  Remove adjacent duplicates from string ii
   -  Asteroid Collision
-  -  Makes the string great 
+  -  Makes the string great
+- Day 14:
+  - Power of Two
+  - Minimum Number of flips to convert Number
+  - Count Primes
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
