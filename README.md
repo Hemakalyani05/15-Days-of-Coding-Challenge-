@@ -63,6 +63,10 @@ Goal: Improve problem-solving and crack top tech internships/jobs
   - Power of Two
   - Minimum Number of flips to convert Number
   - Count Primes
+- Day 15:
+  - Kth Largest element in array
+  - Assign Cookies
+  - Largest Odd number in string
 ##  Inspiration
 Inspired by [@digg_deeperr](https://github.com/Tejoooo) — who encouraged this 15-day challenge and promised a surprise for those who complete it!
 
